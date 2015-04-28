@@ -1,6 +1,8 @@
-/*Azul Garcia
+/*Este programa imprime por pantalla la cadena "Hola Mundo"
+Azul Garcia
+k2051
+legajo 1374539
 14/04/2015
-Este programa imprime por pantalla la cadena "Hola Mundo"
 */
 
 #include <stdio.h>
